@@ -1,7 +1,11 @@
 # SharpNado
 
-Repository to link to the tools or implementations related with malware I will be writting in C#:
+<p align="center">
+  <img width="500" height="300" src="https://raw.githubusercontent.com/ricardojoserf/ricardojoserf.github.io/master/images/sharpnado/test2.drawio.png">
+</p>
 
+
+Repository to link to the tools or implementations related with malware I will be writting in C#:
 
 - [GetModuleHandle](https://github.com/ricardojoserf/GetModuleHandle): GetModuleHandle implementation in C# using only NtQueryInformationProcess by walking the PEB
 
@@ -16,8 +20,3 @@ Repository to link to the tools or implementations related with malware I will b
 - [SharpEA](https://github.com/ricardojoserf/SharpEA): Read, write and delete Extended Attributes (EAs) within NTFS, to hide malicious payloads
 
 - [jeringuilla](https://github.com/ricardojoserf/jeringuilla): Process injection framework in C#. It uses dynamic function loading using delegates and AES-encryption for strings and payloads
-
-
-------------------
-
-![img](https://raw.githubusercontent.com/ricardojoserf/ricardojoserf.github.io/master/images/sharpnado/test2.drawio.png)
