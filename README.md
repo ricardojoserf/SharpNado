@@ -20,6 +20,4 @@ Repository to link to the tools or implementations related with malware I will b
 
 ------------------
 
-#### el meme
-
-![img](https://raw.githubusercontent.com/ricardojoserf/ricardojoserf.github.io/master/images/sharpnado/test.drawio%20(1).png)
+![img](https://raw.githubusercontent.com/ricardojoserf/ricardojoserf.github.io/master/images/sharpnado/test2.drawio.png)
