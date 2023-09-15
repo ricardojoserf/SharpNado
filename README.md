@@ -1,7 +1,7 @@
 # SharpNado
 
 <p align="center">
-  <img width="500" src="https://raw.githubusercontent.com/ricardojoserf/ricardojoserf.github.io/master/images/sharpnado/test2.drawio.png">
+  <img width="350" src="https://raw.githubusercontent.com/ricardojoserf/ricardojoserf.github.io/master/images/sharpnado/test2.drawio.png">
 </p>
 
 
