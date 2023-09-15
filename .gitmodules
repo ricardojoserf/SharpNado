@@ -1,0 +1,3 @@
+[submodule "SharpEA"]
+	path = SharpEA
+	url = https://github.com/ricardojoserf/Sharpea
