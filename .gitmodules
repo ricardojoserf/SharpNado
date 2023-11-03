@@ -19,3 +19,6 @@
 [submodule "SharpADS"]
 	path = SharpADS
 	url = https://github.com/ricardojoserf/SharpADS
+[submodule "StealthyEnv"]
+	path = StealthyEnv
+	url = https://github.com/ricardojoserf/StealthyEnv
