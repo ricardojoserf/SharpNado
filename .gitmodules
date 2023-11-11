@@ -22,3 +22,6 @@
 [submodule "StealthyEnv"]
 	path = StealthyEnv
 	url = https://github.com/ricardojoserf/StealthyEnv
+[submodule "WhoamiAlternatives"]
+	path = WhoamiAlternatives
+	url = https://github.com/ricardojoserf/WhoamiAlternatives
