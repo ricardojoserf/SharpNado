@@ -11,6 +11,8 @@ Repository to link to the tools or implementations related with malware I will b
 
 - [GetProcAddress](https://github.com/ricardojoserf/GetProcAddress): GetProcAddress implementation in C# using only ReadProcessMemory by walking the PEB
 
+- [GetProcessByName](https://github.com/ricardojoserf/GetProcessByName): Get processes from process name using NtGetNextProcess and GetProcessImageFileName syscalls
+
 - [GuardPagesHooking](https://github.com/ricardojoserf/GuardPagesHooking): C# implementation of Guard Pages API Hooking (also known as VEH hooking)
 
 - [jeringuilla](https://github.com/ricardojoserf/jeringuilla): Process injection framework in C#. It uses dynamic function loading using delegates and AES-encryption for strings and payloads
