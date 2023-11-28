@@ -25,3 +25,6 @@
 [submodule "WhoamiAlternatives"]
 	path = WhoamiAlternatives
 	url = https://github.com/ricardojoserf/WhoamiAlternatives
+[submodule "GetProcessByName"]
+	path = GetProcessByName
+	url = https://github.com/ricardojoserf/GetProcessByName
