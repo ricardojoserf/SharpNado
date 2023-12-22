@@ -21,6 +21,8 @@ Repository to link to the tools or implementations related with malware I will b
 
 - [SharpADS](https://github.com/ricardojoserf/SharpADS): Read, write and delete Alternate Data Streams (ADS) within NTFS, to hide malicious payloads
 
+- [SharpCovertTube](https://github.com/ricardojoserf/SharpCovertTube): Youtube as covert-channel - Control Windows systems remotely and execute commands by uploading videos to Youtube
+
 - [SharpEA](https://github.com/ricardojoserf/SharpEA): Read, write and delete Extended Attributes (EAs) within NTFS, to hide malicious payloads
 
 - [StealthyEnv](https://github.com/ricardojoserf/StealthyEnv): Stealthier alternative to whoami.exe in C#, it gets environment variables from PEB (PRTL_USER_PROCESS_PARAMETERS)
