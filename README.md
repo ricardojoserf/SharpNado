@@ -1,10 +1,5 @@
 # SharpNado
 
-<p align="center">
-  <img width="420" src="https://raw.githubusercontent.com/ricardojoserf/ricardojoserf.github.io/master/images/sharpnado/test2.drawio.png">
-</p>
-
-
 Repository to link to the tools or implementations related with malware I will be writting in C#:
 
 - [GetModuleHandle](https://github.com/ricardojoserf/GetModuleHandle): GetModuleHandle implementation in C# using only NtQueryInformationProcess by walking the PEB
@@ -28,3 +23,8 @@ Repository to link to the tools or implementations related with malware I will b
 - [StealthyEnv](https://github.com/ricardojoserf/StealthyEnv): Stealthier alternative to whoami.exe in C#, it gets environment variables from PEB (PRTL_USER_PROCESS_PARAMETERS)
 
 - [WhoamiAlternatives](https://github.com/ricardojoserf/WhoamiAlternatives): Different methods to get current username without using whoami, based on vx-underground posts
+
+
+<p align="center">
+  <img width="420" src="https://raw.githubusercontent.com/ricardojoserf/ricardojoserf.github.io/master/images/sharpnado/test2.drawio.png">
+</p>
