@@ -2,9 +2,9 @@
 
 Repository to link to the tools or implementations related with malware I will be writting in C#:
 
-- [GetModuleHandle](https://github.com/ricardojoserf/GetModuleHandle): GetModuleHandle implementation in C# using only NtQueryInformationProcess by walking the PEB
+- [GetModuleHandle](https://github.com/ricardojoserf/GetModuleHandle): GetModuleHandle implementation in C# using only NtQueryInformationProcess by walking the PEB in 64-bit processes
 
-- [GetProcAddress](https://github.com/ricardojoserf/GetProcAddress): GetProcAddress implementation in C# using only ReadProcessMemory by walking the PEB
+- [GetProcAddress](https://github.com/ricardojoserf/GetProcAddress): GetProcAddress implementation in C# using only ReadProcessMemory by walking the PEB in 64-bit processes
 
 - [GetProcessByName](https://github.com/ricardojoserf/GetProcessByName): Get processes from process name using NtGetNextProcess and GetProcessImageFileName syscalls
 
@@ -20,7 +20,7 @@ Repository to link to the tools or implementations related with malware I will b
 
 - [SharpEA](https://github.com/ricardojoserf/SharpEA): Read, write and delete Extended Attributes (EAs) within NTFS, to hide malicious payloads
 
-- [SharpSelfDelete](https://github.com/ricardojoserf/Sharpselfdelete): PoC to self-delete a binary in C#. The process continues but the .exe file is removed from disk.
+- [SharpSelfDelete](https://github.com/ricardojoserf/Sharpselfdelete): PoC to self-delete a binary in C#. The process continues but the .exe file is removed from disk
 
 - [StealthyEnv](https://github.com/ricardojoserf/StealthyEnv): Stealthier alternative to whoami.exe in C#, it gets environment variables from PEB (PRTL_USER_PROCESS_PARAMETERS)
 
