@@ -31,3 +31,6 @@
 [submodule "SharpCovertTube"]
 	path = SharpCovertTube
 	url = https://github.com/ricardojoserf/SharpCovertTube
+[submodule "SharpSelfDelete"]
+	path = SharpSelfDelete
+	url = https://github.com/ricardojoserf/SharpSelfDelete
