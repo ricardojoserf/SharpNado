@@ -12,6 +12,8 @@ Repository to link to the tools or implementations related with malware I will b
 
 - [jeringuilla](https://github.com/ricardojoserf/jeringuilla): Process injection framework in C#. It uses dynamic function loading using delegates and AES-encryption for strings and payloads
 
+- [lsass-dump-csharp](https://github.com/ricardojoserf/lsass-dumper-csharp): Dump lsass.exe generating a file with the hostname and date in txt format using C#
+
 - [Non-ms-binaries](https://github.com/ricardojoserf/non-ms-binaries): Code snippet to create a process using the "PROCESS_CREATION_MITIGATION_POLICY_BLOCK_NON_MICROSOFT_BINARIES_ALWAYS_ON" flag
 
 - [SharpADS](https://github.com/ricardojoserf/SharpADS): Read, write and delete Alternate Data Streams (ADS) within NTFS, to hide malicious payloads
@@ -19,6 +21,8 @@ Repository to link to the tools or implementations related with malware I will b
 - [SharpCovertTube](https://github.com/ricardojoserf/SharpCovertTube): Youtube as covert-channel - Control Windows systems remotely and execute commands by uploading videos to Youtube
 
 - [SharpEA](https://github.com/ricardojoserf/SharpEA): Read, write and delete Extended Attributes (EAs) within NTFS, to hide malicious payloads
+
+- [SharpNtdllOverwrite](https://github.com/ricardojoserf/SharpNtdllOverwrite): Overwrite ntdll.dll ".text" section to bypass API hooking. Getting the clean ntdll.dll from disk, Knowndlls folder, a debugged process or a URL
 
 - [SharpSelfDelete](https://github.com/ricardojoserf/Sharpselfdelete): PoC to self-delete a binary in C#. The process continues but the .exe file is removed from disk
 
