@@ -1,15 +1,6 @@
 [submodule "SharpEA"]
 	path = SharpEA
 	url = https://github.com/ricardojoserf/Sharpea
-[submodule "GetProcAddress"]
-	path = GetProcAddress
-	url = https://github.com/ricardojoserf/GetProcAddress
-[submodule "GetModuleHandle"]
-	path = GetModuleHandle
-	url = https://github.com/ricardojoserf/GetModuleHandle
-[submodule "jeringuilla"]
-	path = jeringuilla
-	url = https://github.com/ricardojoserf/jeringuilla
 [submodule "GuardPagesHooking"]
 	path = GuardPagesHooking
 	url = https://github.com/ricardojoserf/GuardPagesHooking
@@ -40,3 +31,12 @@
 [submodule "SharpNtdllOverwrite"]
 	path = SharpNtdllOverwrite
 	url = https://github.com/ricardojoserf/SharpNtdllOverwrite
+[submodule "GetModuleHandle"]
+	path = GetModuleHandle
+	url = https://github.com/ricardojoserf/GetModuleHandle
+[submodule "GetProcAddress"]
+	path = GetProcAddress
+	url = https://github.com/ricardojoserf/GetProcAddress
+[submodule "Jeringuilla"]
+	path = Jeringuilla
+	url = https://github.com/ricardojoserf/Jeringuilla
