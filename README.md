@@ -4,7 +4,7 @@ Repository to link to the tools or implementations related with malware I will b
 
 - [GetModuleHandle](https://github.com/ricardojoserf/GetModuleHandle): GetModuleHandle implementation in C# using only NtQueryInformationProcess by walking the PEB in 32-bit or 64-bit processes
 
-- [GetProcAddress](https://github.com/ricardojoserf/GetProcAddress): GetProcAddress implementation in C# using only ReadProcessMemory by walking the PEB in 32-bit or 64-bit processes
+- [GetProcAddress](https://github.com/ricardojoserf/GetProcAddress): GetProcAddress implementation in C# using only NtReadVirtualMemory by walking the PEB in 32-bit or 64-bit processes
 
 - [GetProcessByName](https://github.com/ricardojoserf/GetProcessByName): Get processes from process name using NtGetNextProcess and GetProcessImageFileName syscalls
 
