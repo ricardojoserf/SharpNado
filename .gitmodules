@@ -19,9 +19,6 @@
 [submodule "GetProcessByName"]
 	path = GetProcessByName
 	url = https://github.com/ricardojoserf/GetProcessByName
-[submodule "SharpCovertTube"]
-	path = SharpCovertTube
-	url = https://github.com/ricardojoserf/SharpCovertTube
 [submodule "SharpSelfDelete"]
 	path = SharpSelfDelete
 	url = https://github.com/ricardojoserf/SharpSelfDelete
@@ -40,3 +37,6 @@
 [submodule "Jeringuilla"]
 	path = Jeringuilla
 	url = https://github.com/ricardojoserf/Jeringuilla
+[submodule "SharpCovertTube"]
+	path = SharpCovertTube
+	url = https://github.com/ricardojoserf/SharpCovertTube
