@@ -22,9 +22,6 @@
 [submodule "SharpSelfDelete"]
 	path = SharpSelfDelete
 	url = https://github.com/ricardojoserf/SharpSelfDelete
-[submodule "lsass-dumper-csharp"]
-	path = lsass-dumper-csharp
-	url = https://github.com/ricardojoserf/lsass-dumper-csharp
 [submodule "SharpNtdllOverwrite"]
 	path = SharpNtdllOverwrite
 	url = https://github.com/ricardojoserf/SharpNtdllOverwrite
@@ -40,3 +37,6 @@
 [submodule "SharpCovertTube"]
 	path = SharpCovertTube
 	url = https://github.com/ricardojoserf/SharpCovertTube
+[submodule "Lsass-dumper-csharp"]
+	path = Lsass-dumper-csharp
+	url = https://github.com/ricardojoserf/Lsass-dumper-csharp
