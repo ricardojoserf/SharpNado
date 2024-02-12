@@ -10,12 +10,6 @@
 [submodule "SharpADS"]
 	path = SharpADS
 	url = https://github.com/ricardojoserf/SharpADS
-[submodule "StealthyEnv"]
-	path = StealthyEnv
-	url = https://github.com/ricardojoserf/StealthyEnv
-[submodule "WhoamiAlternatives"]
-	path = WhoamiAlternatives
-	url = https://github.com/ricardojoserf/WhoamiAlternatives
 [submodule "GetProcessByName"]
 	path = GetProcessByName
 	url = https://github.com/ricardojoserf/GetProcessByName
@@ -31,12 +25,18 @@
 [submodule "GetProcAddress"]
 	path = GetProcAddress
 	url = https://github.com/ricardojoserf/GetProcAddress
-[submodule "Jeringuilla"]
-	path = Jeringuilla
-	url = https://github.com/ricardojoserf/Jeringuilla
 [submodule "SharpCovertTube"]
 	path = SharpCovertTube
 	url = https://github.com/ricardojoserf/SharpCovertTube
 [submodule "Lsass-dumper-csharp"]
 	path = Lsass-dumper-csharp
 	url = https://github.com/ricardojoserf/Lsass-dumper-csharp
+[submodule "Jeringuilla"]
+	path = Jeringuilla
+	url = https://github.com/ricardojoserf/Jeringuilla
+[submodule "WhoamiAlternatives"]
+	path = WhoamiAlternatives
+	url = https://github.com/ricardojoserf/WhoamiAlternatives
+[submodule "StealthyEnv"]
+	path = StealthyEnv
+	url = https://github.com/ricardojoserf/StealthyEnv
