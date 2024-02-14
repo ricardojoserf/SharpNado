@@ -25,12 +25,6 @@
 [submodule "GetProcAddress"]
 	path = GetProcAddress
 	url = https://github.com/ricardojoserf/GetProcAddress
-[submodule "SharpCovertTube"]
-	path = SharpCovertTube
-	url = https://github.com/ricardojoserf/SharpCovertTube
-[submodule "Lsass-dumper-csharp"]
-	path = Lsass-dumper-csharp
-	url = https://github.com/ricardojoserf/Lsass-dumper-csharp
 [submodule "Jeringuilla"]
 	path = Jeringuilla
 	url = https://github.com/ricardojoserf/Jeringuilla
@@ -40,3 +34,9 @@
 [submodule "StealthyEnv"]
 	path = StealthyEnv
 	url = https://github.com/ricardojoserf/StealthyEnv
+[submodule "SharpCovertTube"]
+	path = SharpCovertTube
+	url = https://github.com/ricardojoserf/SharpCovertTube
+[submodule "Lsass-dumper-csharp"]
+	path = Lsass-dumper-csharp
+	url = https://github.com/ricardojoserf/Lsass-dumper-csharp
