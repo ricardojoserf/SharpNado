@@ -40,3 +40,6 @@
 [submodule "Lsass-dumper-csharp"]
 	path = Lsass-dumper-csharp
 	url = https://github.com/ricardojoserf/Lsass-dumper-csharp
+[submodule "SharpProcessDump"]
+	path = SharpProcessDump
+	url = https://github.com/ricardojoserf/SharpProcessDump
