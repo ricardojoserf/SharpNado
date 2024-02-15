@@ -24,6 +24,8 @@ Repository to link to the tools or implementations related with malware I will b
 
 - [SharpNtdllOverwrite](https://github.com/ricardojoserf/SharpNtdllOverwrite): Overwrite ntdll.dll ".text" section to bypass API hooking. Getting the clean ntdll.dll from disk, Knowndlls folder, a debugged process or a URL
 
+- [SharpProcessDump](https://github.com/ricardojoserf/SharpProcessDump): Dump memory regions of a process using only native API calls (NtQueryVirtualMemory and NtReadVirtualMemory)
+
 - [SharpSelfDelete](https://github.com/ricardojoserf/Sharpselfdelete): PoC to self-delete a binary in C#. The process continues but the .exe file is removed from disk
 
 - [StealthyEnv](https://github.com/ricardojoserf/StealthyEnv): Stealthier alternative to whoami.exe in C#, it gets environment variables from PEB (PRTL_USER_PROCESS_PARAMETERS)
