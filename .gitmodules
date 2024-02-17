@@ -34,12 +34,15 @@
 [submodule "StealthyEnv"]
 	path = StealthyEnv
 	url = https://github.com/ricardojoserf/StealthyEnv
-[submodule "SharpCovertTube"]
-	path = SharpCovertTube
-	url = https://github.com/ricardojoserf/SharpCovertTube
-[submodule "Lsass-dumper-csharp"]
-	path = Lsass-dumper-csharp
-	url = https://github.com/ricardojoserf/Lsass-dumper-csharp
 [submodule "SharpProcessDump"]
 	path = SharpProcessDump
 	url = https://github.com/ricardojoserf/SharpProcessDump
+[submodule "Lsass-dumper-csharp"]
+	path = Lsass-dumper-csharp
+	url = https://github.com/ricardojoserf/Lsass-dumper-csharp
+[submodule "SharpCovertTube"]
+	path = SharpCovertTube
+	url = https://github.com/ricardojoserf/SharpCovertTube
+[submodule "SharpObfuscate"]
+	path = SharpObfuscate
+	url = https://github.com/ricardojoserf/SharpObfuscate

@@ -22,6 +22,8 @@ Repository to link to the tools or implementations related with malware I will b
 
 - [SharpEA](https://github.com/ricardojoserf/SharpEA): Read, write and delete Extended Attributes (EAs) within NTFS, to hide malicious payloads
 
+- [SharpObfuscate](https://github.com/ricardojoserf/SharpObfuscate): Obfuscate payloads using IPv4, IPv6, MAC or UUID strings
+
 - [SharpNtdllOverwrite](https://github.com/ricardojoserf/SharpNtdllOverwrite): Overwrite ntdll.dll ".text" section to bypass API hooking. Getting the clean ntdll.dll from disk, Knowndlls folder, a debugged process or a URL
 
 - [SharpProcessDump](https://github.com/ricardojoserf/SharpProcessDump): Dump memory regions of a process using only native API calls (NtQueryVirtualMemory and NtReadVirtualMemory)
