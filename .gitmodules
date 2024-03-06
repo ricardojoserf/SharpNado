@@ -34,18 +34,9 @@
 [submodule "StealthyEnv"]
 	path = StealthyEnv
 	url = https://github.com/ricardojoserf/StealthyEnv
-[submodule "SharpProcessDump"]
-	path = SharpProcessDump
-	url = https://github.com/ricardojoserf/SharpProcessDump
-[submodule "Lsass-dumper-csharp"]
-	path = Lsass-dumper-csharp
-	url = https://github.com/ricardojoserf/Lsass-dumper-csharp
 [submodule "SharpCovertTube"]
 	path = SharpCovertTube
 	url = https://github.com/ricardojoserf/SharpCovertTube
-[submodule "SharpObfuscate"]
-	path = SharpObfuscate
-	url = https://github.com/ricardojoserf/SharpObfuscate
 [submodule "p-invoke.net"]
 	path = p-invoke.net
 	url = https://github.com/ricardojoserf/p-invoke.net
@@ -55,3 +46,12 @@
 [submodule "P-invoke.net"]
 	path = P-invoke.net
 	url = https://github.com/ricardojoserf/P-invoke.net
+[submodule "Lsass-dumper-csharp"]
+	path = Lsass-dumper-csharp
+	url = https://github.com/ricardojoserf/Lsass-dumper-csharp
+[submodule "SharpObfuscate"]
+	path = SharpObfuscate
+	url = https://github.com/ricardojoserf/SharpObfuscate
+[submodule "SharpProcessDump"]
+	path = SharpProcessDump
+	url = https://github.com/ricardojoserf/SharpProcessDump
