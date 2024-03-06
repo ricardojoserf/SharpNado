@@ -46,3 +46,12 @@
 [submodule "SharpObfuscate"]
 	path = SharpObfuscate
 	url = https://github.com/ricardojoserf/SharpObfuscate
+[submodule "p-invoke.net"]
+	path = p-invoke.net
+	url = https://github.com/ricardojoserf/p-invoke.net
+[submodule "MinidumpParser"]
+	path = MinidumpParser
+	url = https://github.com/ricardojoserf/MinidumpParser
+[submodule "P-invoke.net"]
+	path = P-invoke.net
+	url = https://github.com/ricardojoserf/P-invoke.net
