@@ -4,6 +4,8 @@ Repository to link to the tools or implementations related with malware I will b
 
 - [GetModuleHandle](https://github.com/ricardojoserf/GetModuleHandle): GetModuleHandle implementation in C# using only NtQueryInformationProcess by walking the PEB in 32-bit or 64-bit processes
 
+- [GetModuleHandleRemote](https://github.com/ricardojoserf/GetModuleHandleRemote): GetModuleHandle implementation in C# for remote processes using only NTAPIs.
+
 - [GetProcAddress](https://github.com/ricardojoserf/GetProcAddress): GetProcAddress implementation in C# using only NtReadVirtualMemory by walking the PEB in 32-bit or 64-bit processes
 
 - [GetProcessByName](https://github.com/ricardojoserf/GetProcessByName): Get processes from process name using NtGetNextProcess and GetProcessImageFileName syscalls
@@ -12,7 +14,7 @@ Repository to link to the tools or implementations related with malware I will b
 
 - [Jeringuilla](https://github.com/ricardojoserf/jeringuilla): Process injection framework in C#. It uses dynamic function loading using delegates and AES-encryption for strings and payloads
 
-- [Lsass-dump-csharp](https://github.com/ricardojoserf/lsass-dumper-csharp): Dump lsass.exe generating a file with the hostname and date in txt format using C#
+- [Lsass-dump-csharp](https://github.com/ricardojoserf/lsass-dumper-csharp): Custom lsass.exe dump using C#: XOR-encoding, Dynamic function resolution, using NTAPIs...
 
 - [MinidumpParser](https://github.com/ricardojoserf/MinidumpParser) - C# program to parse Microsoft Minidump files
 

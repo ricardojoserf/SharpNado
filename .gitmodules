@@ -55,3 +55,6 @@
 [submodule "SharpProcessDump"]
 	path = SharpProcessDump
 	url = https://github.com/ricardojoserf/SharpProcessDump
+[submodule "GetModuleHandleRemote"]
+	path = GetModuleHandleRemote
+	url = https://github.com/ricardojoserf/GetModuleHandleRemote
