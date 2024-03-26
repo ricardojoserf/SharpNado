@@ -20,9 +20,9 @@ Repository to link to the tools or implementations related with malware I will b
 
 - [NativeDump](https://github.com/ricardojoserf/NativeDump) - Dump lsass using only NTAPIs by hand-crafting Minidump files (without MinidumpWriteDump)
 
-- [P-Invoke.net](https://github.com/ricardojoserf/p-invoke.net) - P/Invoke definitions from the now offline pinvoke.net - Website: [https://www.p-invoke.net/](https://www.p-invoke.net/)
-
 - [Non-ms-binaries](https://github.com/ricardojoserf/non-ms-binaries): Code snippet to create a process using the "PROCESS_CREATION_MITIGATION_POLICY_BLOCK_NON_MICROSOFT_BINARIES_ALWAYS_ON" flag
+
+- [P-Invoke.net](https://github.com/ricardojoserf/p-invoke.net) - P/Invoke definitions from the now offline pinvoke.net - Website: [https://www.p-invoke.net/](https://www.p-invoke.net/)
 
 - [SharpADS](https://github.com/ricardojoserf/SharpADS): Read, write and delete Alternate Data Streams (ADS) within NTFS, to hide malicious payloads
 
