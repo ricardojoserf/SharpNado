@@ -16,9 +16,6 @@
 [submodule "SharpSelfDelete"]
 	path = SharpSelfDelete
 	url = https://github.com/ricardojoserf/SharpSelfDelete
-[submodule "SharpNtdllOverwrite"]
-	path = SharpNtdllOverwrite
-	url = https://github.com/ricardojoserf/SharpNtdllOverwrite
 [submodule "GetModuleHandle"]
 	path = GetModuleHandle
 	url = https://github.com/ricardojoserf/GetModuleHandle
@@ -34,9 +31,6 @@
 [submodule "StealthyEnv"]
 	path = StealthyEnv
 	url = https://github.com/ricardojoserf/StealthyEnv
-[submodule "SharpCovertTube"]
-	path = SharpCovertTube
-	url = https://github.com/ricardojoserf/SharpCovertTube
 [submodule "p-invoke.net"]
 	path = p-invoke.net
 	url = https://github.com/ricardojoserf/p-invoke.net
@@ -52,12 +46,21 @@
 [submodule "SharpObfuscate"]
 	path = SharpObfuscate
 	url = https://github.com/ricardojoserf/SharpObfuscate
-[submodule "SharpProcessDump"]
-	path = SharpProcessDump
-	url = https://github.com/ricardojoserf/SharpProcessDump
 [submodule "GetModuleHandleRemote"]
 	path = GetModuleHandleRemote
 	url = https://github.com/ricardojoserf/GetModuleHandleRemote
 [submodule "NativeDump"]
 	path = NativeDump
 	url = https://github.com/ricardojoserf/NativeDump
+[submodule "SharpCovertTube"]
+	path = SharpCovertTube
+	url = https://github.com/ricardojoserf/SharpCovertTube
+[submodule "SharpNtdllOverwrite"]
+	path = SharpNtdllOverwrite
+	url = https://github.com/ricardojoserf/SharpNtdllOverwrite
+[submodule "TrickDump"]
+	path = TrickDump
+	url = https://github.com/ricardojoserf/TrickDump
+[submodule "SharpProcessDump"]
+	path = SharpProcessDump
+	url = https://github.com/ricardojoserf/SharpProcessDump

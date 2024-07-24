@@ -40,6 +40,8 @@ Repository to link to the tools or implementations related with malware I will b
 
 - [StealthyEnv](https://github.com/ricardojoserf/StealthyEnv): Stealthier alternative to whoami.exe in C#, it gets environment variables from PEB (PRTL_USER_PROCESS_PARAMETERS)
 
+- [TrickDump](https://github.com/ricardojoserf/TrickDump): Dump lsass using only NTAPIS running 3 programs to create 3 JSON and 1 ZIP file... and generate the Minidump later!
+
 - [WhoamiAlternatives](https://github.com/ricardojoserf/WhoamiAlternatives): Different methods to get current username without using whoami, based on vx-underground posts
 
 
