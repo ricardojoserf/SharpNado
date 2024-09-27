@@ -49,18 +49,18 @@
 [submodule "GetModuleHandleRemote"]
 	path = GetModuleHandleRemote
 	url = https://github.com/ricardojoserf/GetModuleHandleRemote
-[submodule "NativeDump"]
-	path = NativeDump
-	url = https://github.com/ricardojoserf/NativeDump
 [submodule "SharpCovertTube"]
 	path = SharpCovertTube
 	url = https://github.com/ricardojoserf/SharpCovertTube
 [submodule "SharpNtdllOverwrite"]
 	path = SharpNtdllOverwrite
 	url = https://github.com/ricardojoserf/SharpNtdllOverwrite
-[submodule "TrickDump"]
-	path = TrickDump
-	url = https://github.com/ricardojoserf/TrickDump
 [submodule "SharpProcessDump"]
 	path = SharpProcessDump
 	url = https://github.com/ricardojoserf/SharpProcessDump
+[submodule "TrickDump"]
+	path = TrickDump
+	url = https://github.com/ricardojoserf/TrickDump
+[submodule "NativeDump"]
+	path = NativeDump
+	url = https://github.com/ricardojoserf/NativeDump
