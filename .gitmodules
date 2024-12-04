@@ -64,3 +64,9 @@
 [submodule "NativeDump"]
 	path = NativeDump
 	url = https://github.com/ricardojoserf/NativeDump
+[submodule "FakeRebootAlert"]
+	path = FakeRebootAlert
+	url = https://github.com/ricardojoserf/FakeRebootAlert
+[submodule "NativeBypassCredGuard"]
+	path = NativeBypassCredGuard
+	url = https://github.com/ricardojoserf/NativeBypassCredGuard
