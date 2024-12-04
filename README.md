@@ -2,9 +2,11 @@
 
 Repository to link to the tools or implementations related with malware I will be writting in C#:
 
+- [FakeRebootAlert](https://github.com/ricardojoserf/FakeRebootAlert): Simple Windows Forms App to deceive users into rebooting the system upon login 
+
 - [GetModuleHandle](https://github.com/ricardojoserf/GetModuleHandle): GetModuleHandle implementation in C# using only NtQueryInformationProcess by walking the PEB in 32-bit or 64-bit processes
 
-- [GetModuleHandleRemote](https://github.com/ricardojoserf/GetModuleHandleRemote): GetModuleHandle implementation in C# for remote processes using only NTAPIs.
+- [GetModuleHandleRemote](https://github.com/ricardojoserf/GetModuleHandleRemote): GetModuleHandle implementation in C# for remote processes using only NTAPIs
 
 - [GetProcAddress](https://github.com/ricardojoserf/GetProcAddress): GetProcAddress implementation in C# using only NtReadVirtualMemory by walking the PEB in 32-bit or 64-bit processes
 
@@ -17,6 +19,8 @@ Repository to link to the tools or implementations related with malware I will b
 - [Lsass-dump-csharp](https://github.com/ricardojoserf/lsass-dumper-csharp): Custom lsass.exe dump using C#: XOR-encoding, Dynamic function resolution, using NTAPIs...
 
 - [MinidumpParser](https://github.com/ricardojoserf/MinidumpParser) - C# program to parse Microsoft Minidump files
+
+- [NativeBypassCredGuard](https://github.com/ricardojoserf/NativeBypassCredGuard): Bypass Credential Guard by patching WDigest.dll using only NTAPI functions
 
 - [NativeDump](https://github.com/ricardojoserf/NativeDump) - Dump lsass using only NTAPIs by hand-crafting Minidump files (without MinidumpWriteDump)
 
